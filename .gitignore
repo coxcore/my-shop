@@ -1,0 +1,50 @@
+# Node.js dependencies
+node_modules/
+
+# Vite build output
+build/
+
+# Vite cache
+.vite/
+
+# VS Code settings
+.vscode/
+
+# Editor backup files
+*.swp
+*.swo
+*.bak
+
+# Log files
+*.log
+
+# Coverage reports
+coverage/
+
+# Temporary files
+*.tmp
+
+# Environment files
+.env
+.env.*.gitignore
+
+# macOS Finder
+.DS_Store
+
+# Node.js debug logs
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+pnpm-debug.log
+
+# IDE and editor configs
+.idea
+*.sublime-workspace
+*.sublime-project
+
+# Framework build caches
+.next
+.nuxt
+.output
+.parcel-cache
+.eslintcache
